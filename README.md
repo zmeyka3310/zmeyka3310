@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @zmeyka3310
-- 👀 I’m interested in linux
-- 🌱 I’m currently learning about github
-- 💞️ I’m looking to collaborate on nothing
-- 📫 How to reach my discord ZmEYkA_3310#3475
+- Hi, I’m @zmeyka3310
+- I’m interested in linux
+- I’m currently learning about github
+- I’m looking to collaborate on something with  python
+- My discord ZmEYkA_3310#3475, and you can find me on reddit as u/ZmEYkA_3310
